@@ -4,7 +4,7 @@ This repository is to store the text for issues  <br></br>
 ***Note**: If you still have questions, please leave a comment or contact with me via `hanhaoxing@gmail.com`*<br></br>
 
 # Contents  
-- [Python](#abstract)   
+- [Python](#python)   
   - [pip install](#pip-install) 
     - For: `pip install <some modoules>` doesn't work with Python3.0+ in MacOS 
 
