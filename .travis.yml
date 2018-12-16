@@ -1,0 +1,6 @@
+language: python
+
+go:
+  - 3.5
+
+os: osx
