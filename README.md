@@ -1,5 +1,6 @@
 forissues
 =======
+![img](https://travis-ci.org/honhosing/forissues.svg?branch=master)  
 This repository is to store the text for issues  <br></br>
 ***Note**: If you still have questions, please leave a comment or contact with me via `hanhaoxing@gmail.com`*<br></br>
 
