@@ -1,6 +1,6 @@
 language: python
 
-go:
+python:
   - 3.5
 
 os: osx
